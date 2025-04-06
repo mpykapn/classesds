@@ -5,7 +5,7 @@ import spacy
 import numpy as np
 import logging
 
-TOKEN = "7341888964:AAE2PTpv771pdj-zfS5NutGsn2c6icOQPsw"
+TOKEN = "jfjjfjfjjhgj:hhhhrtrrt123890-"
 
 
 
